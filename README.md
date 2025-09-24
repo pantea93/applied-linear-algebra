@@ -5,7 +5,7 @@ more.
 
 Applications: Solving linear systems with unique or multiple solutions.
 
-Applications of Linear Systems
+Applications of Linear Systems:
 
 Examples from Real-World Applications:
 
